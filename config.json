@@ -1,0 +1,8 @@
+{
+    "video_paths": [
+      "/test_videos/challenge.mp4",
+      "/test_videos/solidWhiteRight.mp4",
+      "/test_videos/solidYellowLeft.mp4"
+    ],
+    "output_folder": "/output video"
+  }
